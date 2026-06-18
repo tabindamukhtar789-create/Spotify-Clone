@@ -13,7 +13,7 @@ A front-end clone of Spotify built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-[Link](http://127.0.0.1:3000/index.html/)
+[Link](http://127.0.0.1:3000/index.html?vscode-livepreview=true)
 
 ## Screenshot
 (Add image)
